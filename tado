@@ -55,4 +55,4 @@ action:
   target:
     entity_id: !input 'climate_target'
   data:
-    hvac_mode: auto
+    hvac_mode: heat
